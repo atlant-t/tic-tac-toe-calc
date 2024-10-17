@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe-calc",
+  "version": "0.0.0",
+  "description": "Counting all possible games in 3d tic-tak-toe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlant-t/tic-tac-toe-calc.git"
+  },
+  "keywords": [
+    "tic-tac-toe"
+  ],
+  "author": "Sergey Murzin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlant-t/tic-tac-toe-calc/issues"
+  },
+  "homepage": "https://github.com/atlant-t/tic-tac-toe-calc#readme"
+}
