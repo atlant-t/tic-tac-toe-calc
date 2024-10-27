@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "checkJs": true,
+      "strict": true,
+      "target": "ES2022",
+      "allowJs": true,
+      "noImplicitAny": true,
+      "noImplicitOverride": true,
+      "noImplicitReturns": true,
+      "module": "Node16"
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}

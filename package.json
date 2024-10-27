@@ -2,6 +2,7 @@
   "name": "tic-tac-toe-calc",
   "version": "0.0.0",
   "description": "Counting all possible games in 3d tic-tak-toe.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
